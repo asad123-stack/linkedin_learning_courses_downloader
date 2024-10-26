@@ -1,11 +1,10 @@
 #!/usr/bin/python
 
-USERNAME = ''
-PASSWORD = ''
+USERNAME = 'asad123-stack'
+PASSWORD = 'Asadhuma@123'
 
 COURSES = [
-    'it-security-foundations-core-concepts',
-    'charlene-li-on-digital-leadership',
+    'python-essential-training-18764650',
     # 'fred-kofman-on-managing-conflict',
     # 'reid-hoffman-and-chris-yeh-on-creating-an-alliance-with-employees',
     # 'bill-george-on-self-awareness-authenticity-and-leadership',
